@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<iframe src="index.html" width="500" height="400"></iframe>
+<!-- iframe src="index.html" width="500" height="400"></iframe -->
+
+<embed src="index.html" width="500" height="400"></embed>
+
