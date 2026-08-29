@@ -35,7 +35,12 @@ ______________________<br/>
 </p>
 
 <hr> <!-- خط فاصل لتحسين المظهر -->
+<!-- الزر الرئيسي الخاص بـ My Link Tree -->
+[![My Link Tree](https://img.shields.io/badge/My_Link_Tree-2EA44F?style=for-the-badge&logo=link&logoColor=white)](https://24712.github.io/24712/)
 
+<br><br> <!-- مسافة بسيطة بين الزر الرئيسي وباقي الروابط -->
+
+<!-- باقي روابط منصات التواصل -->
 <!-- قائمة الروابط منسقة بشكل أفضل باستخدام Markdown -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-ebrahim-a-gawad)
 [![AFT](https://img.shields.io/badge/AFT-Company-blue)](https://24712.github.io/AFT/)
