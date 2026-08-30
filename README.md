@@ -36,7 +36,7 @@ ______________________<br/>
 
 <hr> <!-- خط فاصل لتحسين المظهر -->
 <!-- الزر الرئيسي الخاص بـ My Link Tree -->
-[![My_Link_Tree](https://img.shields.io/badge/My_Link_Tree-2EA44F?style=for-the-badge&logo=link&logoColor=white)](https://24712.github.io/24712/)
+[![My_Link_Tree](https://img.shields.io/badge/My_Link_Tree-white)](https://24712.github.io/24712/)
 
 <br><br> <!-- مسافة بسيطة بين الزر الرئيسي وباقي الروابط -->
 
