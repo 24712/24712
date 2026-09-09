@@ -19,7 +19,7 @@ ______________________<br/>
   Inventor <br/>
   Founder & CEO Of AFT Company ( Manager ) <br/>
   Tech&SiSc&MiTr <br/>
-  Electrical, Electronics and Computer Engineering <br/>
+  Electrical, Electronics and Computer Engineer <br/>
   YouTuber | Content creator <br/>
   DEV ( Aspiring Software Developer ) <br/>
   Beginner chess player <br/>
